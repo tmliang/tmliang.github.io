@@ -35,6 +35,8 @@ Currently, my research interests lie in Video Understanding and Multimodal Infor
 **Tianming Liang**, Chaolei Tan, Beihao Xia, Wei-Shi Zheng, Jian-Fang Hu
 
 *IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2024*
+
+[[paper]](https://arxiv.org/abs/2403.14430)
 </div>
 </div>
 
