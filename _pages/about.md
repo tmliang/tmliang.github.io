@@ -55,7 +55,7 @@ Currently, my research interests lie in Video Understanding and Multimodal Infor
 
 - [Sentence Bag Graph Formulation for Biomedical Distant Supervision Relation Extraction](https://ieeexplore.ieee.org/document/10472686). Hao Zhang, Yang Liu, Xiaoyan Liu, **Tianming Liang**, Gaurav Sharma, Liang Xue, and Maozu Guo. IEEE Transactions on Knowledge and Data Engineering (TKDE), accepted.
 
-# 🎖️ Awards
+# 🎖️ Honors and Awards
 - *2021.07*, Outstanding Master’s Thesis of HIT 
 - *2021.05*, Excellent Graduate of HIT
 - *2020.12*, National Scholarship
