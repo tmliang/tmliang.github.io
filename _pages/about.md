@@ -55,15 +55,15 @@ Currently, my research interests lie in Video Understanding and Multimodal Infor
 
 - [Sentence Bag Graph Formulation for Biomedical Distant Supervision Relation Extraction](https://ieeexplore.ieee.org/document/10472686). Hao Zhang, Yang Liu, Xiaoyan Liu, **Tianming Liang**, Gaurav Sharma, Liang Xue, and Maozu Guo. IEEE Transactions on Knowledge and Data Engineering (TKDE), accepted.
 
-# 🎖️ Honors and Awards
-- *2021.07*, Outstanding Master’s Thesis of HIT 
+# 🏆 Honors and Awards
+- *2021.07*, Outstanding Master’s Thesis of HIT [[Thesis]](https://kns.cnki.net/kcms2/article/abstract?v=smPsKIJgVaAL1OXGDyY2vebrNRo4AdOe_AjqsnpblcBes9jm2zz4ZE4zCi8QDH9etSz05o3QzNiPnVyITaYQiXNmT2CTqDODdoENzE3dTpsuvlfQcYCHYPq2LS73MKN7sdP8VYtQ5aU=&uniplatform=NZKPT&flag=copy)
 - *2021.05*, Excellent Graduate of HIT
 - *2020.12*, National Scholarship
 - *2020.12*, Pacemaker to Excellent Student of HIT
 
 # 📖 Educations
 - *2023-present*, Ph.D. in the [School of Computer Science and Engineering](https://cse.sysu.edu.cn/), Sun Yat-sen Unrversity
-- *2019-2021*, M.S. in the [School of Computer Science and Technology](http://computing.hit.edu.cn/), Harbin Institute of Technology [[Thesis]](https://kns.cnki.net/kcms2/article/abstract?v=smPsKIJgVaCSGc0EtdNF7-LGpqByGDpi05DKkk9OFsaAP0g-qh-R_PcbDtFmt6fx9xL-ccIWMmaNiCpjbASCyGvlgrTOgEGROn55jza-ESggeFNNJKvoOjm1rabgKvAVJh2BFcjp8KqYyQxdvi13CA==&uniplatform=NZKPT)
+- *2019-2021*, M.S. in the [School of Computer Science and Technology](http://computing.hit.edu.cn/), Harbin Institute of Technology 
 - *2015-2019*, B.S. in the [Faculty of Electronic lnafamalion and Exectrical Engineesing](https://ee.dlut.edu.cn/), Dalian Unrversity of Technology
 
 # 💻 Internships
