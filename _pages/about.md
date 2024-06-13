@@ -36,7 +36,7 @@ Currently, my research interests lie in Video Understanding and Multimodal Infor
 
 *IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2024*
 
-[[paper]](https://arxiv.org/abs/2403.14430)
+[[paper]](https://openaccess.thecvf.com/content/CVPR2024/html/Liang_Ranking_Distillation_for_Open-Ended_Video_Question_Answering_with_Insufficient_Labels_CVPR_2024_paper.html)
 </div>
 </div>
 
