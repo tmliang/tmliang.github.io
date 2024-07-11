@@ -65,9 +65,9 @@ Currently, my research interests lie in Video Understanding and Multimodal Infor
 - *2020.12*, Pacemaker to Excellent Student of HIT
 
 # 📖 Educations
-- *2023-present*, Ph.D. in the [School of Computer Science and Engineering](https://cse.sysu.edu.cn/), Sun Yat-sen Unrversity
+- *2023-present*, Ph.D. in the [School of Computer Science and Engineering](https://cse.sysu.edu.cn/), Sun Yat-sen University
 - *2019-2021*, M.S. in the [School of Computer Science and Technology](http://computing.hit.edu.cn/), Harbin Institute of Technology 
-- *2015-2019*, B.S. in the [Faculty of Electronic lnafamalion and Exectrical Engineesing](https://ee.dlut.edu.cn/), Dalian Unrversity of Technology
+- *2015-2019*, B.S. in the [Faculty of Electronic lnafamalion and Exectrical Engineesing](https://ee.dlut.edu.cn/), Dalian University of Technology
 
 # 💻 Internships
 - *2020.05 - 2020.07*, Machine Learning Engineer at [Qihoo 360](https://360campus.zhiye.com), Beijing
