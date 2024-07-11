@@ -21,6 +21,7 @@ Prior to that, I received my master's degree from Harbin Institute of Technology
 Currently, my research interests lie in Video Understanding and Multimodal Information Processing.
 
 # 🔥 News
+- *2024.07*: One paper is accepted by ECCV 2024!
 - *2024.03*: One paper is accepted by TKDE!
 - *2024.02*: One first-author paper is accepted by CVPR 2024!
 - *2022.05*: One first-author paper is accepted by TKDE!
@@ -52,6 +53,8 @@ Currently, my research interests lie in Video Understanding and Multimodal Infor
 [[paper](https://ieeexplore.ieee.org/abstract/document/9780230)]  [[code](https://github.com/tmliang/CGRE)]
 </div>
 </div>
+
+- **Progressive Pretext Task Learning for Human Trajectory Prediction.** Xiaotong Lin, **Tianming Liang**, Jianhuang Lai, and Jian-Fang Hu. *European Conference on Computer Vision (ECCV), 2024*.
 
 - **Sentence Bag Graph Formulation for Biomedical Distant Supervision Relation Extraction.** Hao Zhang, Yang Liu, Xiaoyan Liu, **Tianming Liang**, Gaurav Sharma, Liang Xue, and Maozu Guo. *IEEE Transactions on Knowledge and Data Engineering (TKDE)*, accepted. [[paper]](https://ieeexplore.ieee.org/document/10472686)
 
