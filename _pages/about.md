@@ -21,6 +21,7 @@ Prior to that, I received my master's degree from Harbin Institute of Technology
 Currently, my research interests lie in Video Understanding and Multimodal Information Processing.
 
 # 🔥 News
+- *2024.12*: One first-author paper is accepted by TMM!
 - *2024.07*: One paper is accepted by ECCV 2024!
 - *2024.03*: One paper is accepted by TKDE!
 - *2024.02*: One first-author paper is accepted by CVPR 2024!
@@ -28,12 +29,25 @@ Currently, my research interests lie in Video Understanding and Multimodal Infor
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/BIAS.png'></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Rethinking Temporal Context in Video-QA: A Comprehensive Study of Single-frame Static Bias**
+
+**Tianming Liang**, Linhui Li, Jian-Fang Hu, Xiangyang Yu, Wei-Shi Zheng, and Jianhuang Lai
+
+*IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2024*
+
+[[paper]](https://openaccess.thecvf.com/content/CVPR2024/html/Liang_Ranking_Distillation_for_Open-Ended_Video_Question_Answering_with_Insufficient_Labels_CVPR_2024_paper.html)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/RADI.png'></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Ranking Distillation for Open-Ended Video Question Answering with Insufficient Labels**
 
-**Tianming Liang**, Chaolei Tan, Beihao Xia, Wei-Shi Zheng, Jian-Fang Hu
+**Tianming Liang**, Chaolei Tan, Beihao Xia, Wei-Shi Zheng, and Jian-Fang Hu
 
 *IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2024*
 
@@ -46,7 +60,7 @@ Currently, my research interests lie in Video Understanding and Multimodal Infor
 
 **Distantly-Supervised Long-Tailed Relation Extraction Using Constraint Graphs**
 
-**Tianming Liang**, Yang Liu, Xiaoyan Liu, Hao Zhang, Gaurav Sharma and Maozu Guo
+**Tianming Liang**, Yang Liu, Xiaoyan Liu, Hao Zhang, Gaurav Sharma, and Maozu Guo
 
 *IEEE Transactions on Knowledge and Data Engineering (TKDE) 2022*
 
@@ -54,7 +68,7 @@ Currently, my research interests lie in Video Understanding and Multimodal Infor
 </div>
 </div>
 
-- **Progressive Pretext Task Learning for Human Trajectory Prediction.** Xiaotong Lin, **Tianming Liang**, Jianhuang Lai, and Jian-Fang Hu. *European Conference on Computer Vision (ECCV), 2024*.
+- **Progressive Pretext Task Learning for Human Trajectory Prediction.** Xiaotong Lin, **Tianming Liang**, Jianhuang Lai, and Jian-Fang Hu. *European Conference on Computer Vision (ECCV), 2024*. [[paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04345.pdf)[[code]](https://github.com/iSEE-Laboratory/PPT?tab=readme-ov-file)
 
 - **Sentence Bag Graph Formulation for Biomedical Distant Supervision Relation Extraction.** Hao Zhang, Yang Liu, Xiaoyan Liu, **Tianming Liang**, Gaurav Sharma, Liang Xue, and Maozu Guo. *IEEE Transactions on Knowledge and Data Engineering (TKDE)*, accepted. [[paper]](https://ieeexplore.ieee.org/document/10472686)
 
