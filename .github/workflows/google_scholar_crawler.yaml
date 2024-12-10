@@ -14,7 +14,7 @@ jobs:
     - name: set env
       uses: actions/setup-python@v4
       with:
-        python-version: '3.8'
+        python-version: '3.10'
     - name: Run
       run: |
         cd ./google_scholar_crawler
@@ -22,12 +22,12 @@ jobs:
         source venv/bin/activate
         pip3 install -r requirements.txt
         python3 main.py
-        # cd ./results
-        # git init
-        # git config --local user.name "${GITHUB_ACTOR}"
-        # export remote_repo="https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
-        # git add *.json
-        # git commit -m "Updated Citation Data"
-        # git push "${remote_repo}" HEAD:google-scholar-stats --force
+        cd ./results
+        git init
+        git config --local user.name "${GITHUB_ACTOR}"
+        export remote_repo="https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
+        git add *.json
+        git commit -m "Updated Citation Data"
+        git push "${remote_repo}" HEAD:google-scholar-stats --force
       env: 
         GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
