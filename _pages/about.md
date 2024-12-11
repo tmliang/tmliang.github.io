@@ -70,7 +70,7 @@ Currently, my research interests lie in Video Understanding and Multimodal Infor
 
 - **Progressive Pretext Task Learning for Human Trajectory Prediction.** Xiaotong Lin, **Tianming Liang**, Jianhuang Lai, and Jian-Fang Hu. *European Conference on Computer Vision (ECCV), 2024*. [[paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04345.pdf)[[code]](https://github.com/iSEE-Laboratory/PPT?tab=readme-ov-file)
 
-- **Sentence Bag Graph Formulation for Biomedical Distant Supervision Relation Extraction.** Hao Zhang, Yang Liu, Xiaoyan Liu, **Tianming Liang**, Gaurav Sharma, Liang Xue, and Maozu Guo. *IEEE Transactions on Knowledge and Data Engineering (TKDE)*, accepted. [[paper]](https://ieeexplore.ieee.org/document/10472686)
+- **Sentence Bag Graph Formulation for Biomedical Distant Supervision Relation Extraction.** Hao Zhang, Yang Liu, Xiaoyan Liu, **Tianming Liang**, Gaurav Sharma, Liang Xue, and Maozu Guo. *IEEE Transactions on Knowledge and Data Engineering (TKDE)*. [[paper]](https://ieeexplore.ieee.org/document/10472686)
 
 # 🏆 Honors and Awards
 - *2021.07*, Outstanding Master’s Thesis of HIT [[Thesis]](https://kns.cnki.net/kcms2/article/abstract?v=smPsKIJgVaAL1OXGDyY2vebrNRo4AdOe_AjqsnpblcBes9jm2zz4ZE4zCi8QDH9etSz05o3QzNiPnVyITaYQiXNmT2CTqDODdoENzE3dTpsuvlfQcYCHYPq2LS73MKN7sdP8VYtQ5aU=&uniplatform=NZKPT&flag=copy)
