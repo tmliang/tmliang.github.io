@@ -38,7 +38,7 @@ Currently, my research interests lie in Video Understanding and Multimodal Infor
 
 *Arxiv 2025*
 
-[[paper]](https://arxiv.org/pdf/2501.14607)
+[[paper]](https://arxiv.org/pdf/2501.14607)  [[project page](https://isee-laboratory.github.io/ReferDINO)]
 </div>
 </div>
 
