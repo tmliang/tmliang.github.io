@@ -29,6 +29,19 @@ Currently, my research interests lie in Video Understanding and Multimodal Infor
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/REFERDINO.png'></div></div>
+<div class='paper-box-text' markdown="1">
+
+**ReferDINO: Referring Video Object Segmentation with Visual Grounding Foundations**
+
+**Tianming Liang**, Kun-Yu Lin, Chaolei Tan, Jianguo Zhang, Wei-Shi Zheng, Jian-Fang Hu
+
+*Arxiv 2025*
+
+[[paper]](https://arxiv.org/pdf/2501.14607)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/BIAS.png'></div></div>
 <div class='paper-box-text' markdown="1">
 
