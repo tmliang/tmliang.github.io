@@ -49,9 +49,9 @@ Currently, my research interests lie in Video Understanding and Multimodal Infor
 
 **Tianming Liang**, Linhui Li, Jian-Fang Hu, Xiangyang Yu, Wei-Shi Zheng, and Jianhuang Lai
 
-*IEEE Transactions on Multimedia (TMM) 2024*
+*IEEE Transactions on Multimedia (TMM) 2024* 
 
-<!-- [[paper]](https://openaccess.thecvf.com/content/CVPR2024/html/Liang_Ranking_Distillation_for_Open-Ended_Video_Question_Answering_with_Insufficient_Labels_CVPR_2024_paper.html) -->
+[[paper]](https://ieeexplore.ieee.org/document/10891555)
 </div>
 </div>
 
