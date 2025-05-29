@@ -18,9 +18,10 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 I am currently a second-year Ph.D. student at Sun Yat-sen University, advised by Prof. [Wei-Shi Zheng](https://www.isee-ai.cn/~zhwshi) and Prof. [Jian-Fang Hu](https://isee-ai.cn/~hujianfang).
 Prior to that, I received my master's degree from Harbin Institute of Technology with research in Knowledge Graph and NLP, advised by Prof [Yang Liu](https://homepage.hit.edu.cn/liuyang) and Xiaoyan Liu.
-Currently, my research interests lie in Video Understanding and Multimodal Information Processing.
+Currently, my research interests lie in Video-Language Understanding and Generation.
 
 # 🔥 News
+- *2025.03*: Our team achieved the 2nd place in PVUW challenge RVOS Track at CVPR 2025!
 - *2024.12*: One first-author paper is accepted by TMM!
 - *2024.07*: One paper is accepted by ECCV 2024!
 - *2024.03*: One paper is accepted by TKDE!
@@ -28,6 +29,32 @@ Currently, my research interests lie in Video Understanding and Multimodal Infor
 - *2022.05*: One first-author paper is accepted by TKDE!
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/LONG-RVOS.png'></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Long-RVOS: A Comprehensive Benchmark for Long-term Referring Video Object Segmentation**
+
+**Tianming Liang**, Haichao Jiang, Yuting Yang, Chaolei Tan, Shuai Li, Wei-Shi Zheng, Jian-Fang Hu
+
+*Arxiv 2025*
+
+[[paper]](https://arxiv.org/abs/2505.12702)  [[project page](https://isee-laboratory.github.io/Long-RVOS)]
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/referdino-plus.png'></div></div>
+<div class='paper-box-text' markdown="1">
+
+**ReferDINO: Referring Video Object Segmentation with Visual Grounding Foundations**
+
+**Tianming Liang**, Haichao Jiang, Wei-Shi Zheng, Jian-Fang Hu
+
+*Arxiv 2025*
+
+[[report]](https://arxiv.org/pdf/2503.23509)  [[code](https://github.com/iSEE-Laboratory/ReferDINO-Plus)]
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/REFERDINO.png'></div></div>
 <div class='paper-box-text' markdown="1">
@@ -86,10 +113,10 @@ Currently, my research interests lie in Video Understanding and Multimodal Infor
 - **Sentence Bag Graph Formulation for Biomedical Distant Supervision Relation Extraction.** Hao Zhang, Yang Liu, Xiaoyan Liu, **Tianming Liang**, Gaurav Sharma, Liang Xue, and Maozu Guo. *IEEE Transactions on Knowledge and Data Engineering (TKDE)*. [[paper]](https://ieeexplore.ieee.org/document/10472686)
 
 # 🏆 Honors and Awards
-- *2021.07*, Outstanding Master’s Thesis of HIT [[Thesis]](https://kns.cnki.net/kcms2/article/abstract?v=smPsKIJgVaAL1OXGDyY2vebrNRo4AdOe_AjqsnpblcBes9jm2zz4ZE4zCi8QDH9etSz05o3QzNiPnVyITaYQiXNmT2CTqDODdoENzE3dTpsuvlfQcYCHYPq2LS73MKN7sdP8VYtQ5aU=&uniplatform=NZKPT&flag=copy)
-- *2021.05*, Excellent Graduate of HIT
-- *2020.12*, National Scholarship
-- *2020.12*, Pacemaker to Excellent Student of HIT
+- *2021.07*, Outstanding Master’s Thesis of HIT [[Thesis]](https://kns.cnki.net/kcms2/article/abstract?v=smPsKIJgVaAL1OXGDyY2vebrNRo4AdOe_AjqsnpblcBes9jm2zz4ZE4zCi8QDH9etSz05o3QzNiPnVyITaYQiXNmT2CTqDODdoENzE3dTpsuvlfQcYCHYPq2LS73MKN7sdP8VYtQ5aU=&uniplatform=NZKPT&flag=copy) (哈尔滨工业大学 优秀硕士学位论文)
+- *2021.05*, Excellent Graduate of HIT  (哈尔滨工业大学 优秀毕业生)
+- *2020.12*, National Scholarship (国家奖学金)
+- *2020.12*, Pacemaker to Excellent Student of HIT  (哈尔滨工业大学 优秀学生标兵)
 
 # 📖 Educations
 - *2023-present*, Ph.D. in the [School of Computer Science and Engineering](https://cse.sysu.edu.cn/), Sun Yat-sen University
@@ -98,3 +125,6 @@ Currently, my research interests lie in Video Understanding and Multimodal Infor
 
 # 💻 Internships
 - *2020.05 - 2020.07*, Machine Learning Engineer at [Qihoo 360](https://360campus.zhiye.com), Beijing
+
+# 🤝 Services
+- ICCV, NeurIPS 2025 Reviewer
