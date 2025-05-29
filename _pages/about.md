@@ -29,7 +29,7 @@ Currently, my research interests lie in Video-Language Understanding and Generat
 - *2022.05*: One first-author paper is accepted by TKDE!
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/longrvos.png'></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/long_rvos.png'></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Long-RVOS: A Comprehensive Benchmark for Long-term Referring Video Object Segmentation**
