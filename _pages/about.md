@@ -52,7 +52,7 @@ Currently, my research interests lie in Video-Language Understanding and Generat
 
 *Arxiv 2025*
 
-[[report]](https://arxiv.org/pdf/2503.23509)  [[code](https://github.com/iSEE-Laboratory/ReferDINO-Plus)]
+[[report]](https://arxiv.org/pdf/2503.23509)   [[code](https://github.com/iSEE-Laboratory/ReferDINO-Plus)]
 </div>
 </div>
 
