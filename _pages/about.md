@@ -64,7 +64,7 @@ Currently, my research interests lie in Video-Language Understanding and Generat
 
 **Tianming Liang**, Kun-Yu Lin, Chaolei Tan, Jianguo Zhang, Wei-Shi Zheng, Jian-Fang Hu
 
-*Arxiv 2025*
+*International Conference on Computer Vision (ICCV) 2025*
 
 [[paper]](https://arxiv.org/pdf/2501.14607) [[code](https://github.com/iSEE-Laboratory/ReferDINO)] [[project page](https://isee-laboratory.github.io/ReferDINO)]
 </div>
