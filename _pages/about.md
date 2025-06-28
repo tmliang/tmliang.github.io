@@ -21,6 +21,7 @@ Prior to that, I received my master's degree from Harbin Institute of Technology
 Currently, my research interests lie in Video-Language Understanding and Generation.
 
 # 🔥 News
+- *2026.06*: One first-author paper is accepted by ICCV! All code and model weights are available now. 
 - *2025.03*: Our team achieved the 2nd place in PVUW challenge RVOS Track at CVPR 2025!
 - *2024.12*: One first-author paper is accepted by TMM!
 - *2024.07*: One paper is accepted by ECCV 2024!
@@ -65,7 +66,7 @@ Currently, my research interests lie in Video-Language Understanding and Generat
 
 *Arxiv 2025*
 
-[[paper]](https://arxiv.org/pdf/2501.14607)  [[project page](https://isee-laboratory.github.io/ReferDINO)]
+[[paper]](https://arxiv.org/pdf/2501.14607) [[code](https://github.com/iSEE-Laboratory/ReferDINO)] [[project page](https://isee-laboratory.github.io/ReferDINO)]
 </div>
 </div>
 
