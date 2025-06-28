@@ -46,7 +46,7 @@ Currently, my research interests lie in Video-Language Understanding and Generat
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/referdino-plus.png'></div></div>
 <div class='paper-box-text' markdown="1">
 
-**ReferDINO: Referring Video Object Segmentation with Visual Grounding Foundations**
+**ReferDINO-Plus: 2nd Solution for 4th PVUW MeViS Challenge at CVPR 2025**
 
 **Tianming Liang**, Haichao Jiang, Wei-Shi Zheng, Jian-Fang Hu
 
