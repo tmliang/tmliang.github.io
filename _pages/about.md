@@ -16,18 +16,25 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I am currently a second-year Ph.D. student at Sun Yat-sen University, advised by Prof. [Wei-Shi Zheng](https://www.isee-ai.cn/~zhwshi) and Prof. [Jian-Fang Hu](https://isee-ai.cn/~hujianfang).
+I am currently a third-year Ph.D. student at Sun Yat-sen University, advised by Prof. [Wei-Shi Zheng](https://www.isee-ai.cn/~zhwshi) and Prof. [Jian-Fang Hu](https://isee-ai.cn/~hujianfang).
 Prior to that, I received my master's degree from Harbin Institute of Technology with research in Knowledge Graph and NLP, advised by Prof [Yang Liu](https://homepage.hit.edu.cn/liuyang) and Xiaoyan Liu.
 Currently, my research interests lie in Video-Language Understanding and Generation.
 
+---
+
+#### 📢: 我正在积极寻找2026年研究型实习的机会. 如果您有合适的岗位, 欢迎直接与我联系 (liangtm@mail2.sysu.edu.cn) !
+
+---
+
 # 🔥 News
-- *2026.06*: One first-author paper is accepted by ICCV! 
+- *2025.11*: One paper is accepted by AAAI 2026.
+- *2025.06*: One first-author paper is accepted by ICCV 2025. 
 - *2025.03*: We achieved the 2nd place in PVUW challenge RVOS Track at CVPR 2025!
-- *2024.12*: One first-author paper is accepted by TMM!
-- *2024.07*: One paper is accepted by ECCV 2024!
-- *2024.03*: One paper is accepted by TKDE!
-- *2024.02*: One first-author paper is accepted by CVPR 2024!
-- *2022.05*: One first-author paper is accepted by TKDE!
+- *2024.12*: One first-author paper is accepted by TMM.
+- *2024.07*: One paper is accepted by ECCV 2024.
+- *2024.03*: One paper is accepted by TKDE.
+- *2024.02*: One first-author paper is accepted by CVPR 2024.
+- *2022.05*: One first-author paper is accepted by TKDE.
 
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/long_rvos.png'></div></div>
@@ -39,7 +46,7 @@ Currently, my research interests lie in Video-Language Understanding and Generat
 
 *Arxiv 2025*
 
-[[paper]](https://arxiv.org/abs/2505.12702)  [[project page](https://isee-laboratory.github.io/Long-RVOS)]
+[[paper]](https://arxiv.org/abs/2505.12702) [[code](https://github.com/iSEE-Laboratory/Long_RVOS)] [[project page](https://isee-laboratory.github.io/Long-RVOS)]
 </div>
 </div>
 
@@ -109,13 +116,16 @@ Currently, my research interests lie in Video-Language Understanding and Generat
 </div>
 </div>
 
+- **TubeRMC: Tube-conditioned Reconstruction with Mutual Constraints for Weakly-supervised Spatio-Temporal Video Grounding.** Jinxuan Li,Yi Zhang,Jian-Fang Hu, Chaolei Tan, **Tianming Liang**, Beihao Xia
+
 - **Progressive Pretext Task Learning for Human Trajectory Prediction.** Xiaotong Lin, **Tianming Liang**, Jianhuang Lai, and Jian-Fang Hu. *European Conference on Computer Vision (ECCV), 2024*. [[paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04345.pdf)[[code]](https://github.com/iSEE-Laboratory/PPT?tab=readme-ov-file)
 
 - **Sentence Bag Graph Formulation for Biomedical Distant Supervision Relation Extraction.** Hao Zhang, Yang Liu, Xiaoyan Liu, **Tianming Liang**, Gaurav Sharma, Liang Xue, and Maozu Guo. *IEEE Transactions on Knowledge and Data Engineering (TKDE)*. [[paper]](https://ieeexplore.ieee.org/document/10472686)
 
 # 🏆 Honors and Awards
+- *2025.11*, SYSU Junhai Scholarship (中山大学 君海奖学金)
 - *2021.07*, Outstanding Master’s Thesis of HIT [[Thesis]](https://kns.cnki.net/kcms2/article/abstract?v=smPsKIJgVaAL1OXGDyY2vebrNRo4AdOe_AjqsnpblcBes9jm2zz4ZE4zCi8QDH9etSz05o3QzNiPnVyITaYQiXNmT2CTqDODdoENzE3dTpsuvlfQcYCHYPq2LS73MKN7sdP8VYtQ5aU=&uniplatform=NZKPT&flag=copy) (哈尔滨工业大学 优秀硕士学位论文)
-- *2021.05*, Excellent Graduate of HIT  (哈尔滨工业大学 优秀毕业生)
+- *2021.05*, Excellent Graduate of HIT (哈尔滨工业大学 优秀毕业生)
 - *2020.12*, National Scholarship (国家奖学金)
 - *2020.12*, Pacemaker to Excellent Student of HIT  (哈尔滨工业大学 优秀学生标兵)
 
@@ -128,5 +138,9 @@ Currently, my research interests lie in Video-Language Understanding and Generat
 - *2020.05 - 2020.07*, Machine Learning Engineer at [Qihoo 360](https://360campus.zhiye.com), Beijing
 
 # 🤝 Services
+Journal Reviewer
+- TMM, PR
+
 Conference Reviewer
-- 2025: ICCV, NeurIPS, PRCV 
+- 2026: CVPR
+- 2025: CVPR, ICCV, NeurIPS, PRCV 
