@@ -27,6 +27,7 @@ Currently, my research interests lie in Video-Language Understanding and Generat
 ---
 
 # 🔥 News
+- *2025.12*: One paper is accepted by TPAMI.
 - *2025.11*: One paper is accepted by AAAI 2026.
 - *2025.06*: One first-author paper is accepted by ICCV 2025. 
 - *2025.03*: We achieved the 2nd place in PVUW challenge RVOS Track at CVPR 2025!
@@ -37,6 +38,32 @@ Currently, my research interests lie in Video-Language Understanding and Generat
 - *2022.05*: One first-author paper is accepted by TKDE.
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/segresearch.png'></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Seg-ReSearch: Segmentation with Interleaved Reasoning and External Search**
+
+**Tianming Liang**, Qirui Du, Jian-Fang Hu, Haichao Jiang, Zicheng Lin, Wei-Shi Zheng
+
+*Arxiv 2025*
+
+[[paper]](https://arxiv.org/submit/7232718/view) [[code](https://github.com/iSEE-Laboratory/Seg-ReSearch)] 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/referagent.png'></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Refer-Agent: A Collaborative Multi-Agent System with Reasoning and Reflection for Referring Video Object Segmentation**
+
+Haichao Jiang*, **Tianming Liang\***, Wei-Shi Zheng, Jian-Fang Hu
+
+*Arxiv 2025*, \* Equal Contribution
+
+[[paper]](https://www.arxiv.org/pdf/2602.03595) [[code](#)] 
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/long_rvos.png'></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -116,11 +143,13 @@ Currently, my research interests lie in Video-Language Understanding and Generat
 </div>
 </div>
 
-- **TubeRMC: Tube-conditioned Reconstruction with Mutual Constraints for Weakly-supervised Spatio-Temporal Video Grounding.** Jinxuan Li,Yi Zhang,Jian-Fang Hu, Chaolei Tan, **Tianming Liang**, Beihao Xia
+- **Human Motion Prediction via Continual Prior Compensation.** Jianwei Tang, Jian-Fang Hu, **Tianming Liang**, Xiaotong Lin, Jiangxin Sun, Wei-Shi Zheng, Jianhuang Lai. *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2026*. [[paper]](https://ieeexplore.ieee.org/document/11342290)
+
+- **TubeRMC: Tube-conditioned Reconstruction with Mutual Constraints for Weakly-supervised Spatio-Temporal Video Grounding.** Jinxuan Li, Yi Zhang, Jian-Fang Hu, Chaolei Tan, **Tianming Liang**, Beihao Xia. *The Fortieth AAAI Conference on Artificial Intelligence (AAAI), 2026*. [[paper]](https://arxiv.org/abs/2511.10241)
 
 - **Progressive Pretext Task Learning for Human Trajectory Prediction.** Xiaotong Lin, **Tianming Liang**, Jianhuang Lai, and Jian-Fang Hu. *European Conference on Computer Vision (ECCV), 2024*. [[paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04345.pdf)[[code]](https://github.com/iSEE-Laboratory/PPT?tab=readme-ov-file)
 
-- **Sentence Bag Graph Formulation for Biomedical Distant Supervision Relation Extraction.** Hao Zhang, Yang Liu, Xiaoyan Liu, **Tianming Liang**, Gaurav Sharma, Liang Xue, and Maozu Guo. *IEEE Transactions on Knowledge and Data Engineering (TKDE)*. [[paper]](https://ieeexplore.ieee.org/document/10472686)
+- **Sentence Bag Graph Formulation for Biomedical Distant Supervision Relation Extraction.** Hao Zhang, Yang Liu, Xiaoyan Liu, **Tianming Liang**, Gaurav Sharma, Liang Xue, and Maozu Guo. *IEEE Transactions on Knowledge and Data Engineering (TKDE), 2024*. [[paper]](https://ieeexplore.ieee.org/document/10472686)
 
 # 🏆 Honors and Awards
 - *2025.11*, SYSU Junhai Scholarship (中山大学 君海奖学金)
@@ -142,5 +171,5 @@ Journal Reviewer
 - TMM, PR
 
 Conference Reviewer
-- 2026: CVPR
+- 2026: CVPR, ECCV, ICML
 - 2025: CVPR, ICCV, NeurIPS, PRCV 
