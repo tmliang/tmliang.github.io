@@ -45,9 +45,9 @@ Currently, my research interests lie in Video-Language Understanding and Generat
 
 **Tianming Liang**, Qirui Du, Jian-Fang Hu, Haichao Jiang, Zicheng Lin, Wei-Shi Zheng
 
-*Arxiv 2025*
+*Arxiv 2026*
 
-[[paper]](https://arxiv.org/submit/7232718/view) [[code](https://github.com/iSEE-Laboratory/Seg-ReSearch)] 
+[[paper]](https://arxiv.org/abs/2602.04454) [[code](https://github.com/iSEE-Laboratory/Seg-ReSearch)] 
 </div>
 </div>
 
@@ -58,7 +58,7 @@ Currently, my research interests lie in Video-Language Understanding and Generat
 
 Haichao Jiang*, **Tianming Liang\***, Wei-Shi Zheng, Jian-Fang Hu
 
-*Arxiv 2025*, \* Equal Contribution
+*Arxiv 2026*, \* Equal Contribution
 
 [[paper]](https://www.arxiv.org/pdf/2602.03595) [[code](#)] 
 </div>
