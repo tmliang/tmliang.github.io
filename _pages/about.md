@@ -27,6 +27,7 @@ Currently, my research interests lie in Video-Language Understanding and Generat
 ---
 
 # 🔥 News
+- *2026.02*: Two papers (as first/co-first author) are accepted by CVPR 2026!
 - *2025.12*: One paper is accepted by TPAMI.
 - *2025.11*: One paper is accepted by AAAI 2026.
 - *2025.06*: One first-author paper is accepted by ICCV 2025. 
@@ -58,9 +59,9 @@ Currently, my research interests lie in Video-Language Understanding and Generat
 
 Haichao Jiang*, **Tianming Liang\***, Wei-Shi Zheng, Jian-Fang Hu
 
-*Arxiv 2026*, \* Equal Contribution
+*CVPR 2026*, \* Equal Contribution
 
-[[paper]](https://www.arxiv.org/pdf/2602.03595) [[code](#)] 
+[[paper]](https://www.arxiv.org/pdf/2602.03595) [[code](https://github.com/iSEE-Laboratory/Refer-Agent)] 
 </div>
 </div>
 
@@ -71,7 +72,7 @@ Haichao Jiang*, **Tianming Liang\***, Wei-Shi Zheng, Jian-Fang Hu
 
 **Tianming Liang**, Haichao Jiang, Yuting Yang, Chaolei Tan, Shuai Li, Wei-Shi Zheng, Jian-Fang Hu
 
-*Arxiv 2025*
+*CVPR 2026*
 
 [[paper]](https://arxiv.org/abs/2505.12702) [[code](https://github.com/iSEE-Laboratory/Long_RVOS)] [[project page](https://isee-laboratory.github.io/Long-RVOS)]
 </div>
