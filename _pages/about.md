@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 I am currently a third-year Ph.D. student at Sun Yat-sen University, advised by Prof. [Wei-Shi Zheng](https://www.isee-ai.cn/~zhwshi) and Prof. [Jian-Fang Hu](https://isee-ai.cn/~hujianfang).
 Prior to that, I received my master's degree from Harbin Institute of Technology with research in Knowledge Graph and NLP, advised by Prof [Yang Liu](https://homepage.hit.edu.cn/liuyang) and Xiaoyan Liu.
-Currently, my research interests lie in Video-Language Understanding and Generation.
+Currently, my research interests lie in Video-Language Understanding and Multi-modal Large Language Model.
 
 ---
 
