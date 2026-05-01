@@ -22,11 +22,8 @@ Currently, my research interests lie in Video-Language Understanding and Multi-m
 
 ---
 
-#### 📢: 我正在积极寻找2026年研究型实习的机会. 如果您有合适的岗位, 欢迎直接与我联系 (liangtm@mail2.sysu.edu.cn) !
-
----
-
 # 🔥 News
+- *2026.05*: One first-author paper is accepted by ICML 2026. 
 - *2026.02*: Two papers (as first/co-first author) are accepted by CVPR 2026!
 - *2025.12*: One paper is accepted by TPAMI.
 - *2025.11*: One paper is accepted by AAAI 2026.
@@ -46,7 +43,7 @@ Currently, my research interests lie in Video-Language Understanding and Multi-m
 
 **Tianming Liang**, Qirui Du, Jian-Fang Hu, Haichao Jiang, Zicheng Lin, Wei-Shi Zheng
 
-*Arxiv 2026*
+*ICML 2026*
 
 [[paper]](https://arxiv.org/abs/2602.04454) [[code](https://github.com/iSEE-Laboratory/Seg-ReSearch)] 
 </div>
@@ -165,12 +162,13 @@ Haichao Jiang*, **Tianming Liang\***, Wei-Shi Zheng, Jian-Fang Hu
 - *2015-2019*, B.S. in the [Faculty of Electronic lnafamalion and Exectrical Engineesing](https://ee.dlut.edu.cn/), Dalian University of Technology
 
 # 💻 Internships
+- *2026.04 - present*, Research Intern, Keye Team, Kuaishou, Beijing
 - *2020.05 - 2020.07*, Machine Learning Engineer at [Qihoo 360](https://360campus.zhiye.com), Beijing
 
 # 🤝 Services
+Conference Reviewer
+- 2026: CVPR, ECCV, ICML, NeurIPS
+- 2025: CVPR, ICCV, NeurIPS, PRCV 
+
 Journal Reviewer
 - TMM, PR
-
-Conference Reviewer
-- 2026: CVPR, ECCV, ICML
-- 2025: CVPR, ICCV, NeurIPS, PRCV 
