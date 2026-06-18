@@ -23,7 +23,7 @@ Currently, my research interests lie in Video-Language Understanding and Multi-m
 ---
 
 # 🔥 News
-- *2026.06*: The Kwai Keye-VL-2.0 technical report has been released, ranking as the #2 Paper of Hugging Face Daily Papers.
+- *2026.06*: The Kwai Keye-VL-2.0 technical report has been released, ranking as the #2 Paper of [Hugging Face Daily Papers](https://huggingface.co/papers/date/2026-06-10).
 - *2026.05*: One first-author paper is accepted by ICML 2026. 
 - *2026.02*: Two papers (as first/co-first author) are accepted by CVPR 2026!
 - *2025.12*: One paper is accepted by TPAMI.
