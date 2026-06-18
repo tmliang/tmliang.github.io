@@ -16,13 +16,14 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I am currently a third-year Ph.D. student at Sun Yat-sen University, advised by Prof. [Wei-Shi Zheng](https://www.isee-ai.cn/~zhwshi) and Prof. [Jian-Fang Hu](https://isee-ai.cn/~hujianfang).
+I am currently a final-year Ph.D. student at Sun Yat-sen University, advised by Prof. [Wei-Shi Zheng](https://www.isee-ai.cn/~zhwshi) and Prof. [Jian-Fang Hu](https://isee-ai.cn/~hujianfang).
 Prior to that, I received my master's degree from Harbin Institute of Technology with research in Knowledge Graph and NLP, advised by Prof [Yang Liu](https://homepage.hit.edu.cn/liuyang) and Xiaoyan Liu.
 Currently, my research interests lie in Video-Language Understanding and Multi-modal Large Language Model.
 
 ---
 
 # 🔥 News
+- *2026.06*: The Kwai Keye-VL-2.0 technical report has been released, ranking as the #2 Paper of Hugging Face Daily Papers.
 - *2026.05*: One first-author paper is accepted by ICML 2026. 
 - *2026.02*: Two papers (as first/co-first author) are accepted by CVPR 2026!
 - *2025.12*: One paper is accepted by TPAMI.
@@ -35,7 +36,25 @@ Currently, my research interests lie in Video-Language Understanding and Multi-m
 - *2024.02*: One first-author paper is accepted by CVPR 2024.
 - *2022.05*: One first-author paper is accepted by TKDE.
 
+
+# 💻 Internships
+- *2026.06.22 - Present*, Research Intern (青云计划), WeChat Team, Tecent, Shenzhen
+  - Topic: Unified Video Understanding and Generation
+- *2026.04.01 - 2026.06.12*, Research Intern, Keye Team, Kuaishou, Beijing
+  - Topic: Video Mid-training and Post-training for MLLMs
+
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/keye.png'></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Kwai Keye-VL-2.0 Technical Report**
+
+Kwai Keye Team (Contributor)
+
+[[Technical Report]](https://huggingface.co/papers/2606.10651) [[code](https://github.com/Kwai-Keye/Keye)] 
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/segresearch.png'></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -157,13 +176,9 @@ Haichao Jiang*, **Tianming Liang\***, Wei-Shi Zheng, Jian-Fang Hu
 - *2020.12*, Pacemaker to Excellent Student of HIT  (哈尔滨工业大学 优秀学生标兵)
 
 # 📖 Educations
-- *2023-present*, Ph.D. in the [School of Computer Science and Engineering](https://cse.sysu.edu.cn/), Sun Yat-sen University
-- *2019-2021*, M.S. in the [School of Computer Science and Technology](http://computing.hit.edu.cn/), Harbin Institute of Technology 
-- *2015-2019*, B.S. in the [Faculty of Electronic lnafamalion and Exectrical Engineesing](https://ee.dlut.edu.cn/), Dalian University of Technology
-
-# 💻 Internships
-- *2026.04 - present*, Research Intern, Keye Team, Kuaishou, Beijing
-- *2020.05 - 2020.07*, Machine Learning Engineer at [Qihoo 360](https://360campus.zhiye.com), Beijing
+- Ph.D. in the [School of Computer Science and Engineering](https://cse.sysu.edu.cn/), Sun Yat-sen University
+- M.S. in the [School of Computer Science and Technology](http://computing.hit.edu.cn/), Harbin Institute of Technology 
+- B.S. in the [Faculty of Electronic lnafamalion and Exectrical Engineesing](https://ee.dlut.edu.cn/), Dalian University of Technology
 
 # 🤝 Services
 Conference Reviewer
