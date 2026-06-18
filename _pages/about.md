@@ -38,9 +38,9 @@ Currently, my research interests lie in Video-Language Understanding and Multi-m
 
 
 # 💻 Internships
-- *2026.06.22 - Present*, Research Intern (青云计划), WeChat Team, Tecent, Shenzhen
+- *2026.06.22 - Present*, Research Intern (青云计划), **WeChat Team**, Tecent, Shenzhen
   - Topic: Unified Video Understanding and Generation
-- *2026.04.01 - 2026.06.12*, Research Intern, Keye Team, Kuaishou, Beijing
+- *2026.04.01 - 2026.06.12*, Research Intern, **Keye Team**, Kuaishou, Beijing
   - Topic: Video Mid-training and Post-training for MLLMs
 
 # 📝 Publications 
