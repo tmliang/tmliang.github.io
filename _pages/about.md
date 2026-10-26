@@ -23,6 +23,8 @@ Currently, my research interests lie in Video-Language Understanding and Multi-m
 ---
 
 # 🔥 News
+- *2026.10*: We release WeVisOne-VL (WeChat Vision All-in-One) that unifies object-level and pixel-level perception, and the technical report ranks as #1 Paper of [Hugging Face Daily Papers](https://huggingface.co/papers/date/2026-10-23).
+- *2026.09*: One first-author paper is accepted by NeurIPS 2026.
 - *2026.06*: The Kwai Keye-VL-2.0 technical report has been released, ranking as the #2 Paper of [Hugging Face Daily Papers](https://huggingface.co/papers/date/2026-06-10).
 - *2026.05*: One first-author paper is accepted by ICML 2026. 
 - *2026.02*: Two papers (as first/co-first author) are accepted by CVPR 2026!
@@ -44,12 +46,40 @@ Currently, my research interests lie in Video-Language Understanding and Multi-m
   - Topic: Video Mid-training and Post-training for MLLMs
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/wevisone-vl.png' alt='WeVisOne-VL object-level and pixel-level visual perception examples'></div></div>
+<div class='paper-box-text' markdown="1">
+
+**WeVisOne-VL: Unified Visual Perception from Objects to Pixels**
+
+WeChat Vision Team (Core Contributor)
+
+*Technical Report, 2026*
+
+[[Technical Report]](https://arxiv.org/abs/2610.31329) [[code](https://github.com/Tencent/WeVisOne-VL)]
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/gcpo.png' alt='Comparison of GRPO, diversity-regularized methods, and cooperative GCPO'></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Breaking Winner-Takes-All: Cooperative Policy Optimization Improves Diverse LLM Reasoning**
+
+Haoxuan Chen\*, **Tianming Liang\***, Wei-Shi Zheng, Jian-Fang Hu
+
+*NeurIPS 2026*, \* Equal Contribution
+
+[[paper]](https://arxiv.org/abs/2605.11461) [[code](https://github.com/bradybuddiemarch/gcpo)]
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/keye.png'></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Kwai Keye-VL-2.0 Technical Report**
 
 Kwai Keye Team (Contributor)
+
+*Technical Report, 2026*
 
 [[Technical Report]](https://huggingface.co/papers/2606.10651) [[code](https://github.com/Kwai-Keye/Keye)] 
 </div>

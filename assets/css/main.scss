@@ -55,8 +55,15 @@
         display: flex;
         width: 100%;
         order: 2;
+        > div {
+            width: 100%;
+            min-width: 0;
+        }
         img {
+            display: block;
+            width: 100%;
             max-width: 300px;
+            height: auto;
             // box-shadow: 3px 3px 6px #888;
             object-fit: cover;
         }
