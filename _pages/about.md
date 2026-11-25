@@ -199,6 +199,7 @@ Haichao Jiang*, **Tianming Liang\***, Wei-Shi Zheng, Jian-Fang Hu
 - **Sentence Bag Graph Formulation for Biomedical Distant Supervision Relation Extraction.** Hao Zhang, Yang Liu, Xiaoyan Liu, **Tianming Liang**, Gaurav Sharma, Liang Xue, and Maozu Guo. *IEEE Transactions on Knowledge and Data Engineering (TKDE), 2024*. [[paper]](https://ieeexplore.ieee.org/document/10472686)
 
 # 🏆 Honors and Awards
+- *2026.10*, National Scholarship (国家奖学金)
 - *2025.11*, SYSU Junhai Scholarship (中山大学 君海奖学金)
 - *2021.07*, Outstanding Master’s Thesis of HIT [[Thesis]](https://kns.cnki.net/kcms2/article/abstract?v=smPsKIJgVaAL1OXGDyY2vebrNRo4AdOe_AjqsnpblcBes9jm2zz4ZE4zCi8QDH9etSz05o3QzNiPnVyITaYQiXNmT2CTqDODdoENzE3dTpsuvlfQcYCHYPq2LS73MKN7sdP8VYtQ5aU=&uniplatform=NZKPT&flag=copy) (哈尔滨工业大学 优秀硕士学位论文)
 - *2021.05*, Excellent Graduate of HIT (哈尔滨工业大学 优秀毕业生)
